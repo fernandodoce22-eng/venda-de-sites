@@ -98,10 +98,6 @@ body {
     width: 100%;
 }
 
-.blak {
-    color: white;
-}
-
 .email {
     text-decoration: none;
     color: aqua;
@@ -122,4 +118,5 @@ body {
 .ver {
     color: rgb(255, 114, 114);
 }
+
 
