@@ -87,14 +87,18 @@
 .t {
     display: block;
 }
-
-/* Fundo */
-body {
-    background-image: url("img/fund.png");
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
+html, body {
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
 }
+
+body {
+    background: url("img/fund.png") no-repeat center center fixed;
+    background-size: cover;
+}
+
+
 
 
 
@@ -119,8 +123,3 @@ body {
 .ver {
     color: rgb(255, 114, 114);
 }
-
-
-
-
-
