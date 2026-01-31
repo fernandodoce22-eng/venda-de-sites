@@ -90,13 +90,15 @@
 
 /* Fundo */
 body {
-    background-image: url('img/fun.png');
+    background-image: url('img/fund.png');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
     width: 100%;
 }
+
+
 
 .email {
     text-decoration: none;
@@ -118,5 +120,6 @@ body {
 .ver {
     color: rgb(255, 114, 114);
 }
+
 
 
