@@ -90,7 +90,7 @@
 
 /* Fundo */
 body {
-    background-image: url("img/fundo.png");
+    background-image: url("img/fund.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -119,6 +119,7 @@ body {
 .ver {
     color: rgb(255, 114, 114);
 }
+
 
 
 
