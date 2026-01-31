@@ -1,0 +1,124 @@
+.titulo1 {
+    border: 2px solid rgb(37, 212, 154);
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    color: rgb(129, 193, 250);
+}
+
+.toque {
+    color: rgb(128, 255, 0);
+    text-decoration: none;
+}
+
+.toque:hover {
+    color: rgb(194, 250, 252);
+    padding: 20px;
+    border: 1px solid aquamarine;
+    border-radius: 10px;
+    background-color: rgb(0, 150, 100);
+}
+
+.compra1 {
+    border: 1px solid coral;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    color: coral;
+}
+
+/* Hovers corrigidos */
+.lavega:hover {
+    color: rgb(105, 145, 255);
+    border: 5px solid rgb(105, 145, 255);
+}
+
+.borda:hover {
+    color: rgb(0, 100, 130);
+    border: 5px solid rgb(0, 100, 130);
+}
+
+.coluna:hover {
+    border: 5px solid rgb(243, 243, 8);
+}
+
+.caloi:hover {
+    color: rgb(89, 0, 130);
+    border: 5px solid rgb(89, 0, 130);
+}
+
+.cortina:hover {
+    color: rgb(130, 0, 0);
+    border: 5px solid rgb(130, 0, 0);
+}
+
+.coma {
+    color: rgb(9, 255, 0);
+}
+
+.fado {
+    color: rgb(255, 123, 0);
+}
+
+.doga {
+    color: rgb(255, 0, 0);
+}
+
+/* Texto */
+.texto-p {
+    max-width: 100%;
+    display: block;
+    width: 230px;
+    height: 60px;
+}
+
+.promocao {
+    color: aquamarine;
+}
+
+.cinquenta {
+    color: rgb(206, 4, 4);
+}
+
+.zero {
+    color: rgb(44, 250, 54);
+}
+
+.t {
+    display: block;
+}
+
+/* Fundo */
+body {
+    background-image: url('img/fun.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+}
+
+.blak {
+    color: white;
+}
+
+.email {
+    text-decoration: none;
+    color: aqua;
+}
+
+.primeiro {
+    color: rgb(227, 255, 198);
+}
+
+.segundo {
+    color: rgb(255, 197, 156);
+}
+
+.terceira {
+    color: rgb(255, 144, 144);
+}
+
+.ver {
+    color: rgb(255, 193, 193);
+}
