@@ -93,11 +93,6 @@ html, body {
     min-height: 100%;
 }
 
-body {
-    background: url("img/fund.png") no-repeat center center fixed;
-    background-size: cover;
-}
-
 
 
 
@@ -123,3 +118,4 @@ body {
 .ver {
     color: rgb(255, 114, 114);
 }
+
